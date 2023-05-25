@@ -1,0 +1,21 @@
+9 19 U
+A B 7
+A C 4
+A D 16
+B C 5
+B D 8
+B E 9
+C E 15
+C F 10
+C H 13
+D E 2
+D G 3
+E F 14
+E G 1
+E H 6
+F H 11
+H G 12
+I F 12
+I H 1
+I G 11
+A
